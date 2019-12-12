@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_snippets_snippets,snippets.snippets,model_snippets_snippets,,1,0,0,0
